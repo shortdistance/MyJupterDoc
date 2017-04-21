@@ -1,0 +1,253 @@
+2017-02-21 22:59:35,549 ERROR <urlopen error unknown url type: localhost>
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "c:\python27\lib\urllib2.py", line 454, in _open
+    'unknown_open', req)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 1265, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+URLError: <urlopen error unknown url type: localhost>
+2017-02-21 23:00:02,338 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:00:02,338 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:00:47,065 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:00:47,065 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:00:47,065 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:02:29,290 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:02:29,290 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:02:29,290 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:02:29,290 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-6-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:26:28,263 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-11-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:26:28,263 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-11-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:26:28,263 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-11-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:26:28,263 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-11-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-21 23:26:28,263 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "<ipython-input-11-dd50e9113f40>", line 91, in doRequest
+    response = urlopen(request)
+  File "c:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "c:\python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "c:\python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "c:\python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "c:\python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "c:\python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
